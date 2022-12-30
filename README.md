@@ -1,7 +1,8 @@
+
 # Physics 300, University of Nevada Las Vegas
 ## Introduction to Physics and Scientific Computing 
-## Location: BPB-248
-## Schedule: Mon/Weds 2:30 - 3:45 pm
+## Location: 자습
+## Schedule: Fri 3:30 - 4:45 pm
 |Instructor| Prof. Qiang Zhu|
 |--|-------------------------------|
 |Email | qiang.zhu@unlv.edu|
