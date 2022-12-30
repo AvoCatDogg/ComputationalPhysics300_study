@@ -1,8 +1,8 @@
 전산물리 공부용으로 사용
 # Physics 300, University of Nevada Las Vegas
 ## Introduction to Physics and Scientific Computing 
-## Location: 자습
-## Schedule: Fri 3:30 - 4:45 pm
+## Location: 광화문/ERICA
+## Schedule: Fri/Sat 3:30 - 4:45 pm
 |Instructor| Prof. Qiang Zhu|
 |--|-------------------------------|
 |Email | qiang.zhu@unlv.edu|
