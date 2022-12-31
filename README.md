@@ -1,4 +1,4 @@
-전산물리 공부용으로 사용
+전산물리랑 git 사용법에 대해서 공부하기 위해 사용하겠다.
 # Physics 300, University of Nevada Las Vegas
 ## Introduction to Physics and Scientific Computing 
 ## Location: 광화문/ERICA
